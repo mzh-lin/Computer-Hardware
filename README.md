@@ -37,3 +37,9 @@
 |      |          |      |
 |      |          |      |
 
+
+
+[frp  进行内网穿透教程]( https://www.jianshu.com/p/759901b284e2 )
+
+[pycharm 远程登录处理](https://www.cnblogs.com/weihengblog/p/9656257.html) 
+

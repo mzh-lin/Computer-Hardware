@@ -43,3 +43,5 @@
 
 [pycharm 远程登录处理](https://www.cnblogs.com/weihengblog/p/9656257.html) 
 
+[解决pycharm无法ftp的问题]( https://www.jb51.net/article/148924.htm )
+

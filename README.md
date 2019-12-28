@@ -45,8 +45,6 @@
 
 [解决pycharm无法ftp的问题]( https://www.jb51.net/article/148924.htm )
 
-dones
-
 csvloader
 
 [mongodb+frp]( https://www.cnblogs.com/chenhuabin/archive/2019/11/03/11785250.html )
